@@ -1,2 +1,3 @@
 This is just a test file
-This is VS Code
+This is VS Code test
+Testing
